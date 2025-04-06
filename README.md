@@ -1,2 +1,2 @@
-# imc-ucamp
-Tarea de UCamp
+El primer paso para escribir este código fue obtener la formula para sacar el IMC, después de eso, cree una función para llamar a la formula cuando fuera necesario. El siguiente paso fue crear bucles para cada uno de los datos solicitados, de esta manera, el usuario estaría obligado a introducir datos validos o el bucle no se detendría, además de validar que los campos no estuvieran vacíos, me aseguré de manejar errores de entrada usando try y except para evitar que el programa se cierre abruptamente. Al final pedí que se imprima por pantalla los datos con un texto correspondiente para dar mejor contexto.
+Hasta el momenmto mi experiencia en UCamp ha sido buena, me he dado cuenta que aprender junto a otras personas ayuda a mejorar el proceso de aprendizaje, es interesante como las dudas de los demas dan espacio a entender mejor temas que parecia ya entender.
